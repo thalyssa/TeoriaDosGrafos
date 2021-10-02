@@ -4,7 +4,7 @@
 # Algoritmos implementados
 
 ---
-Para executar cada código, basta o comando seguinte, na pasta de cada algoritmo:
+Para executar cada código, basta o comando seguinte, na pasta de cada algoritmo, utilizando Make ou CMake:
 
 ### Ford Fulkerson
 ```g++ ford-fulkerson.cpp -o fordFulkerson```
